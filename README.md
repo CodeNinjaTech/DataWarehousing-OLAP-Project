@@ -1,6 +1,8 @@
 # Modern Data Management & Business Intelligence
 
-## Assignment #2
+Assignment 2 for the Data Management and Business Intelligence Course of AUEB's MSc in Business Analytics.
+
+## Description
 
 In this assignment, you will utilize SQL Server Database, SQL Server Analysis Services, and Power BI or Tableau to design and develop a data warehouse, build data cubes, develop OLAP reports, and visualize the results. The project presentation will be conducted in Teams with each group allocated 10-15 minutes. The presentation should be in the form of a business case and include:
 
